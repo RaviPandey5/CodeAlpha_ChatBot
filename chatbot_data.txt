@@ -1,0 +1,12 @@
+Data science is a multidisciplinary field that uses scientific methods, algorithms, processes, and systems to extract knowledge and insights from structured and unstructured data.
+
+key steps include data collection, data cleaning, data exploration, feature engineering, modeling, evaluation, and deployment.
+
+the difference between supervised and unsupervised learning Supervised learning involves training a model on labeled data, while unsupervised learning deals with unlabeled data and aims to find patterns or structure within the data.
+
+the difference between classification and regression in machine learning
+Classification predicts discrete labels or categories, while regression predicts continuous numerical values.
+
+Feature engineering involves selecting, transforming, or creating features from the raw data to improve the performance of machine learning models.
+
+A decision tree is a predictive model that uses a tree-like structure to make decisions by splitting the data into subsets based on the values of input features.
